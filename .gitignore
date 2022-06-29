@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vs/
+.vscode/
+!.vscode/settings.json
+
+# builds
+dist/
+build/
+
